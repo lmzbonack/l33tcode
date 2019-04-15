@@ -1,0 +1,2 @@
+This one is pretty straightforward. I used 2 helper functions to make the solution very readible. First flipping the array
+with the first helper. Then reversing the values using map and another helper function
